@@ -1,0 +1,40 @@
+body {
+  background: black;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 150px;
+}
+
+/* .triangle-1 {
+  width: 150px;
+  height: 150px;
+  background-color: purple;
+  clip-path: polygon(48% 17%, 0% 100%, 100% 100%);
+  transform: rotatex(140deg);
+}
+
+.triangle-2 {
+  width: 150px;
+  height: 150px;
+  background-color: purple;
+  clip-path: polygon(48% 17%, 0% 100%, 100% 100%);
+  transform: rotatex(140deg);
+} */
+
+.triangle-3 {
+  width: 150px;
+  height: 150px;
+  background-color: yellow;
+  clip-path: polygon(48% 17%, 0% 100%, 100% 100%);
+  transform: skew(34deg);
+}
+
+.triangle-4 {
+  width: 150px;
+  height: 150px;
+  background-color: yellow;
+  clip-path: polygon(48% 17%, 0% 100%, 100% 100%);
+  transform: skewX(145deg);
+}
+
